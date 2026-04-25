@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Priority crawl paths
+Allow: /seo_apps/city-pages/
+Allow: /seo_apps/topic-sites/
+Allow: /guides/
+Allow: /seo_apps/
+
+# Sitemap
+Sitemap: https://blog.canvatax.com/sitemap.xml
+
+# Crawl-delay (be nice)
+Crawl-delay: 1

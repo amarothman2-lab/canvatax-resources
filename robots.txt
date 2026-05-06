@@ -10,5 +10,5 @@ Allow: /seo_apps/
 # Sitemap
 Sitemap: https://blog.canvatax.com/sitemap.xml
 
-# Crawl-delay (be nice)
+# Updated: 2026-05-06
 Crawl-delay: 1
